@@ -1,0 +1,24 @@
+commit 57080f0e9ee97798f9ff1bfb2bc74bd7f98b5278
+Author:     Tony Mutai <tonnimutai@gmail.com>
+AuthorDate: Wed Nov 21 10:36:00 2018 +0300
+Commit:     Tony Mutai <tonnimutai@gmail.com>
+CommitDate: Wed Nov 21 10:36:00 2018 +0300
+
+    more test
+---
+ index.js | 1 +
+ test.js  | 1 +
+ 2 files changed, 2 insertions(+)
+
+diff --git a/index.js b/index.js
+index e69de29..52f6164 100644
+--- a/index.js
++++ b/index.js
+@@ -0,0 +1 @@
++console.log('A');
+diff --git a/test.js b/test.js
+index e69de29..e299cf1 100644
+--- a/test.js
++++ b/test.js
+@@ -0,0 +1 @@
++console.log('B');
