@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/lestoni/go-logtick"
+	"github.com/lestoni/go-logtick/pkg/parser"
 	"io/ioutil"
 )
 
